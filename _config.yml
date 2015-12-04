@@ -1,7 +1,7 @@
 name: thiess
 favicon: null
-layout_spectrum: 0.9257226346526295
-typography_spectrum: 0.7440174359362572
+layout_spectrum: 1
+typography_spectrum: 0.41866
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.43033719644881785
-  lightness: 0.5977375551592559
-  saturation: 0.48676296090707183
-  rhythmicContrast: 0.6475645124446601
+    - '#000000'
+    - '#009514'
+    - '#00cc21'
+    - '#29fa39'
+    - '#cdfece'
+  brandStrength: 0.25
+  lightness: 0.3125
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
