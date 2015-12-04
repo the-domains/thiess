@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[thiess]]></title>
         <description><![CDATA[thiess]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thiess/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 18:51:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Dec 2015 19:03:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thiess/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/502af3d5-0ec8-4130-86ce-b34355f5721b.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/thiess/c3ba5997-e156-46d0-8c15-a706e866ccc8/index.html</link>
+            <guid isPermaLink="false">c3ba5997-e156-46d0-8c15-a706e866ccc8</guid>
+            <pubDate>Fri, 04 Dec 2015 19:03:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Der Blick]]></title>
             <description><![CDATA[<article><h1>Der Blick</h1><p>Blick</p></article>]]></description>
-            <link>undefinedder-blick/index.html</link>
+            <link>https://thegrid.ai/thiess/der-blick/index.html</link>
             <guid isPermaLink="false">c294c526-68a4-4a70-bdc1-45274cb88f6f</guid>
             <pubDate>Fri, 04 Dec 2015 18:51:48 GMT</pubDate>
         </item>
